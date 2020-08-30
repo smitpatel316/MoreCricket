@@ -1,4 +1,4 @@
-# more_cricket
+# MoreCricket
 
 Cricket Application
 
